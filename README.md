@@ -7,7 +7,7 @@ It simplifies command execution, enhances operational awareness, and supports se
 auxBot combines automation, intelligence, and security to deliver a reliable, responsive, and scalable AI cyber defense chat assistant for modern digital environments.
 
 
-💻 Usage of the auxBot 
+## 💻 Usage of the auxBot 
 
 ## 1️⃣ Network Engineers
 
